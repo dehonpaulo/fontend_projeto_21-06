@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+
+html *{
+    margin: 0;
+    padding: 0;
+}
+
+.social-icon {
+    width: 50px;
+    margin: 10px 10px 0 10px;
+}
+
+.conteudo {
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+#cabecalho {
+    background: rgb(207, 207, 207);
+    height: 40px;
+}
+
+#principal {
+    background-image: url(../img/sp.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 1vh;
+}
+
+#rodape {
+    text-align: center;
+    height: 12vh
+}
+
+h1 {
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+}
+
+#video {
+    margin: 2vh;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
